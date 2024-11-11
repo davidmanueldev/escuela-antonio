@@ -1,4 +1,4 @@
-# shiro Dev School Management Dashboard
+# La Fundación de Shiroshinn
 
 ## Getting Started
 
